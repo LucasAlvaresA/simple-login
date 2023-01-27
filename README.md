@@ -1,2 +1,2 @@
-# login-simples
-Sistema de login simples para estudos de React Native
+# Simple Login
+Simple login system for React Native studies
